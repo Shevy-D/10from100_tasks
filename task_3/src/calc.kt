@@ -5,6 +5,7 @@
  */
 
 
+/*
 fun main() {
 
     println("Input first number: ")
@@ -26,8 +27,10 @@ fun main() {
         }
     }
 }
+*/
 
 
+/*
 fun main() {
     println("Input action (+, -, *, /):")
     val act = readLine()
@@ -60,4 +63,4 @@ fun main() {
         println("Unknown expression")
     }
 
-}
+}*/
